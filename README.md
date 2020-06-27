@@ -1,4 +1,4 @@
-# ujian-online-ci
+# ujian-online
 
 Aplikasi Ujian Online Menggunakan CodeIgniter
 
@@ -6,8 +6,7 @@ Aplikasi Ujian Online Menggunakan CodeIgniter
 <p>Disarankan upgrade PHP ke versi terbaru (7.3 atau lebih tinggi)</p>
 
 <h1>Cara Install</h1>
-    Buat database dengan nama <kbd>ci_online_test</kbd>. Kemudian import database pada folder <kbd>sql</kbd>. Jangan lupa setting lagi file <kbd>config.php</kbd> nya. 
-    <br/>
+    Buat database dengan nama <kbd>ci_online_test</kbd>. Kemudian import database pada folder <kbd>sql</kbd>
 
 jika sudah mengikuti langkah diatas dengan benar seharusnya aplikasi sudah berjalan dengan baik. Pastikan pada console browser tidak terdapat error.
 
@@ -15,28 +14,4 @@ jika sudah mengikuti langkah diatas dengan benar seharusnya aplikasi sudah berja
 <ul>
 <li>Administrator <br/> Email: admin@admin.com <br/> Password : password </li>
   
-</ul>
-
-Thanks to :
-
-<ul>
-  <li>AdminLTE</li>
-<li>CodeIgniter</li>
-<li>Ion Auth</li>
-<li>Datatables</li>
-<li>Ignited Datatables</li>
-<li>Select2</li>
-<li>SweetAlert2</li>
-<li>Bootstrap</li>
-<li>JQuery</li>
-<li>PACE.js</li>
-<li>Codemirror</li>
-<li>Bootstrap datetime-picker</li>
-<li>Fontawesome</li>
-<li>Ion-icons</li>
-<li>Froala Editor</li>
-<li>MommentJs</li>
-<li>ICheck</li>
-<li>frankyradio</li>
-<li>and more...</li>
 </ul>
